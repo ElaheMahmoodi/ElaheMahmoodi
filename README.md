@@ -9,19 +9,13 @@
 
 <div style="display:flex;justify-content:center">
 
-[![website](./image/linkedin.png)](https://www.linkedin.com/in/elahe-mahmoodi/#gh-light-mode-only)
-
-[![website](./image/instagram.png)](https://instagram/_ieler#gh-light-mode-only)
-
-[![website](./image/email.png)](mailto:elahemahmoodi81@gmail.com#gh-light-mode-only)
+<a style="display:flex;justify-content:center" href="https://www.linkedin.com/in/elahe-mahmoodi/"><img src="./image/linkedin.png"></a><a style="display:flex;justify-content:center" href="mailto:elahemahmoodi81@gmail.com"><img src="./image/email.png"></a><a style="display:flex;justify-content:center" href="https://www.instagram.com/_ieler"><img src="./image/instagram.png"></a>
 
 </div>
 
 <h2>Github profile stats 📋</h2>
 
 ![Elahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaheMahmoodi&show_icons=true&theme=radical)
-
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaheMahmoodi&layout=compact&title_color=D83B7D&icon_color=FFE400&bg_color=141321&text_color=A9FEF7&border_color=0c1a25&card_width=320)
 
