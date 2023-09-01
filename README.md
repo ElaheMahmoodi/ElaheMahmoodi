@@ -22,7 +22,7 @@
 
 ![Elahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaheMahmoodi&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaheMahmoodi&layout=compact&title_color=D83B7D&icon_color=FFE400&bg_color=141321&text_color=A9FEF7&border_color=0c1a25&card_width=320)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaheMahmoodi&layout=compact&title_color=D83B7D&icon_color=FFE400&bg_color=141321&text_color=A9FEF7&border_color=ffffff&card_width=320)
 
 <!--
 **ElaheMahmoodi/ElaheMahmoodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
