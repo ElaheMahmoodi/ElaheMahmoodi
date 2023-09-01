@@ -1,10 +1,13 @@
 <div align="center">
-### Hi , My name is Elahe 👋
+<h1> Hi , My name is Elahe 👋</h1>
 <hr>
 <img src="./image/pink_desk.gif">
 
 ![Elahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaheMahmoodi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaheMahmoodi&layout=donut-vertical)](https://github.com/ElaheMahmoodi/github-readme-stats)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaheMahmoodi&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=320)
 
 <!--
 **ElaheMahmoodi/ElaheMahmoodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
