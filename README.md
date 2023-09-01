@@ -1,4 +1,8 @@
+<div align="center">
 ### Hi , My name is Elahe 👋
+<hr>
+<img src="./image/pink_desk.gif">
+
 ![Elahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaheMahmoodi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaheMahmoodi&layout=donut-vertical)](https://github.com/ElaheMahmoodi/github-readme-stats)
 
@@ -16,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
