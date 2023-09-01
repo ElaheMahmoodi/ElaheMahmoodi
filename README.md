@@ -4,7 +4,8 @@
   
 <p>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&repeat=false&width=1000&height=200&lines=Hello%2C+I'm+Elahe%2C+a+21-year-old+individual+with+a+passion+for+front-end+programming.+;+I+have+a+background+in+computer+science+and+have+dedicated+my+academic+journey+to+this+field.;+My+fascination+with+computer+software+and+programming+has+been+a+driving+force+in+my+life%2C+;inspiring+me+to+pursue+a+career+in+the+world+of+technology.;I+am+enthusiastic+about+creating+user-friendly+and+visually+appealing+interfaces%2C+;+and+I'm+constantly+exploring+new+techniques+and+technologies+to+improve+my+skills;+in+front-end+development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&width=1000&height=200&lines=Hello%2C+I'm+Elahe%2C+a+21-year-old+individual+with+a+passion+for+front-end+programming.+;+I+have+a+background+in+computer+science+and+have+dedicated+my+academic+journey+to+this+field.;+My+fascination+with+computer+software+and+programming+has+been+a+driving+force+in+my+life%2C+;inspiring+me+to+pursue+a+career+in+the+world+of+technology.;I+am+enthusiastic+about+creating+user-friendly+and+visually+appealing+interfaces%2C+;+and+I'm+constantly+exploring+new+techniques+and+technologies+to+improve+my+skills;+in+front-end+development.)](https://git.io/typing-svg)
+
 
 </p>
 <br>
