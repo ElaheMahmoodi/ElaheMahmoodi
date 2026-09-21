@@ -14,15 +14,9 @@
 
 <div style="display:flex;justify-content:center">
 
-<a style="display:flex;justify-content:center" href="https://www.linkedin.com/in/elahe-mahmoodi/"><img src="./image/linkedin.png"></a><a style="display:flex;justify-content:center" href="mailto:elahemahmoodi81@gmail.com"><img src="./image/email.png"></a><a style="display:flex;justify-content:center" href="https://www.instagram.com/_ieler"><img src="./image/instagram.png"></a>
+<a style="display:flex;justify-content:center" href="https://www.linkedin.com/in/elahe-mahmoodi/"><img src="./image/linkedin.png"></a><a style="display:flex;justify-content:center" href="mailto:elahemahmoodi81@gmail.com"><img src="./image/email.png"></a><a style="display:flex;justify-content:center" href="https://www.instagram.com/about.eler"><img src="./image/instagram.png"></a>
 
 </div>
-
-<h2>Github profile stats 📋</h2>
-
-![Elahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaheMahmoodi&show_icons=true&theme=radical&bg_color=90deg,E36348,BD596B,99518D&title_color=A9FEF7)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaheMahmoodi&layout=compact&title_color=A9FEF7&icon_color=FFE400&bg_color=90deg,E36348,BD596B,99518D&text_color=A9FEF7&border_color=ffffff&card_width=320)
 
 <!--
 **ElaheMahmoodi/ElaheMahmoodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
